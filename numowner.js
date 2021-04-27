@@ -1,5 +1,5 @@
 const ownerNumber = ["557187645787@s.whatsapp.net"]
-const OriginalOwner = '557187645787'
+const OriginalOwner = '558681467600'
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
             + 'FN:Meu criador^~^\n' 
